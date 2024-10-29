@@ -1,0 +1,10 @@
+body { background-image:url(background.png); background-repeat:repeat-x; font-family:georgia;}
+h1 { color:darkblue; font-family:Comic Sans MS; font-size:60px; text-align:center; }
+h4{ color:black; text-align:center; font-style:italic;  }
+h3{text-align:center}
+.rataTengah{color:orange; text-align:center;}
+.rataKanan{text-align:right; line-height:2 ;}
+h3 a{color:red; text-decoration:none}
+.ex2{text-decoration:none;}
+.instagram:hover{color:blue; text-decoration:underline;}
+.facebook:hover{color:white; background:blue; text-decoration:underline;}
